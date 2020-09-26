@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 #!/usr/bin/env ruby
+=======
+<<<<<<< HEAD
+#!/usr/bin/env ruby
+=======
+#!/usr/bin/env ruby.exe
+>>>>>>> origin/master
+>>>>>>> origin/master
 require 'fileutils'
 
 # path to your application root.
