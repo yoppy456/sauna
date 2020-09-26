@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "sauna",
+=======
+  "name": "sauna_app",
+>>>>>>> origin/master
   "private": true,
   "dependencies": {
     "@rails/ujs": "^6.0.0",
